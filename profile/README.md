@@ -9,114 +9,92 @@
 <p align="center">
   <a target="_blank" rel="noopener" href="https://algorithmic.network"><img src="https://img.shields.io/badge/Website-6a64e3?style=for-the-badge&logo=website&logoColor=white" alt="Website"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://x.com/algorithmicHQ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:contact@algorithmic.network"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
+<br/>
+<br/>
 
 ## 💡 About Us
 <p>
   At <strong>Algorithmic Network</strong>, we are a collective of passionate engineers, designers, and strategists dedicated to building a safer, more transparent digital future. We don't just write code; we architect trust. From cutting-edge enterprise applications to robust security consulting, we deliver solutions that empower our clients and protect their users.
 </p>
 
+<br/>
+
 ## 🚀 Our Services
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr valign="top">
     <td width="32%">
-      <table width="100%" border="0" cellpadding="15" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; height: 100%;">
-        <tr>
-          <td align="center" valign="top">
-            <h3 style="font-size: 1.5em; margin-bottom: 0.5em;">📦</h3>
-            <h3 style="color: #6a64e3;">Bespoke Products</h3>
-            <p style="color: #c9d1d9;">We craft high-quality software products tailored for enterprise needs, focusing on scalability, security, and user-centric design.</p>
-          </td>
-        </tr>
-      </table>
+      <div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
+        <h3 style="font-size: 2em; margin: 0 0 10px;">📦</h3>
+        <h3 style="color: #6a64e3; margin: 0 0 10px; font-size: 1.2em;">Bespoke Products</h3>
+        <p style="color: #c9d1d9; margin: 0; font-size: 0.9em; line-height: 1.5;">We craft high-quality software products tailored for enterprise needs, focusing on scalability, security, and user-centric design.</p>
+      </div>
     </td>
     <td width="2%">&nbsp;</td>
     <td width="32%">
-       <table width="100%" border="0" cellpadding="15" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; height: 100%;">
-        <tr>
-          <td align="center" valign="top">
-            <h3 style="font-size: 1.5em; margin-bottom: 0.5em;">💻</h3>
-            <h3 style="color: #6a64e3;">Custom Development</h3>
-            <p style="color: #c9d1d9;">Our team partners with you to build custom applications from the ground up, turning your unique vision into a secure and powerful reality.</p>
-          </td>
-        </tr>
-      </table>
+      <div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
+        <h3 style="font-size: 2em; margin: 0 0 10px;">💻</h3>
+        <h3 style="color: #6a64e3; margin: 0 0 10px; font-size: 1.2em;">Custom Development</h3>
+        <p style="color: #c9d1d9; margin: 0; font-size: 0.9em; line-height: 1.5;">Our team partners with you to build custom applications from the ground up, turning your unique vision into a secure and powerful reality.</p>
+      </div>
     </td>
     <td width="2%">&nbsp;</td>
     <td width="32%">
-       <table width="100%" border="0" cellpadding="15" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; height: 100%;">
-        <tr>
-          <td align="center" valign="top">
-            <h3 style="font-size: 1.5em; margin-bottom: 0.5em;">🤝</h3>
-            <h3 style="color: #6a64e3;">IT Consultation</h3>
-            <p style="color: #c9d1d9;">Leverage our expertise to navigate complex tech landscapes. We provide strategic guidance on security, architecture, and digital transformation.</p>
-          </td>
-        </tr>
-      </table>
+      <div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
+        <h3 style="font-size: 2em; margin: 0 0 10px;">🤝</h3>
+        <h3 style="color: #6a64e3; margin: 0 0 10px; font-size: 1.2em;">IT Consultation</h3>
+        <p style="color: #c9d1d9; margin: 0; font-size: 0.9em; line-height: 1.5;">Leverage our expertise to navigate complex tech landscapes. We provide strategic guidance on security, architecture, and digital transformation.</p>
+      </div>
     </td>
   </tr>
 </table>
+
+<br/>
 
 ## ✨ Our Core Principles
 <p align="center">Our four pillars guide everything we build.</p>
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr valign="top">
-    <td width="23%">
-      <table width="100%" border="0" cellpadding="15" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; height: 100%;">
-        <tr>
-          <td align="center" valign="top">
-            <h4 style="font-size: 1.5em; margin-bottom: 0.5em;">🔒</h4>
-            <h4 style="color: #6a64e3;">Privacy First</h4>
-            <p style="color: #c9d1d9;">We champion data privacy as a human right, embedding it into the core of our development lifecycle.</p>
-          </td>
-        </tr>
-      </table>
+    <td width="23.5%">
+      <div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
+        <h4 style="font-size: 2em; margin: 0 0 10px;">🔒</h4>
+        <h4 style="color: #6a64e3; margin: 0 0 10px; font-size: 1.2em;">Privacy First</h4>
+        <p style="color: #c9d1d9; margin: 0; font-size: 0.9em; line-height: 1.5;">We champion data privacy as a human right, embedding it into the core of our development lifecycle.</p>
+      </div>
     </td>
     <td width="2%">&nbsp;</td>
-    <td width="23%">
-       <table width="100%" border="0" cellpadding="15" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; height: 100%;">
-        <tr>
-          <td align="center" valign="top">
-            <h4 style="font-size: 1.5em; margin-bottom: 0.5em;">🛡️</h4>
-            <h4 style="color: #6a64e3;">Ironclad Security</h4>
-            <p style="color: #c9d1d9;">We build resilient, hardened systems designed to withstand and repel the sophisticated threats of the modern web.</p>
-          </td>
-        </tr>
-      </table>
+    <td width="23.5%">
+      <div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
+        <h4 style="font-size: 2em; margin: 0 0 10px;">🛡️</h4>
+        <h4 style="color: #6a64e3; margin: 0 0 10px; font-size: 1.2em;">Ironclad Security</h4>
+        <p style="color: #c9d1d9; margin: 0; font-size: 0.9em; line-height: 1.5;">We build resilient, hardened systems designed to withstand and repel the sophisticated threats of the modern web.</p>
+      </div>
     </td>
     <td width="2%">&nbsp;</td>
-    <td width="23%">
-       <table width="100%" border="0" cellpadding="15" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; height: 100%;">
-        <tr>
-          <td align="center" valign="top">
-            <h4 style="font-size: 1.5em; margin-bottom: 0.5em;">🔍</h4>
-            <h4 style="color: #6a64e3;">Radical Transparency</h4>
-            <p style="color: #c9d1d9;">We believe in open communication. Our clients and users have a right to understand the logic that powers their tools.</p>
-          </td>
-        </tr>
-      </table>
+    <td width="23.5%">
+      <div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
+        <h4 style="font-size: 2em; margin: 0 0 10px;">🔍</h4>
+        <h4 style="color: #6a64e3; margin: 0 0 10px; font-size: 1.2em;">Radical Transparency</h4>
+        <p style="color: #c9d1d9; margin: 0; font-size: 0.9em; line-height: 1.5;">We believe in open communication. Our clients and users have a right to understand the logic that powers their tools.</p>
+      </div>
     </td>
     <td width="2%">&nbsp;</td>
-    <td width="23%">
-       <table width="100%" border="0" cellpadding="15" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; height: 100%;">
-        <tr>
-          <td align="center" valign="top">
-            <h4 style="font-size: 1.5em; margin-bottom: 0.5em;">🔑</h4>
-            <h4 style="color: #6a64e3;">Total Encryption</h4>
-            <p style="color: #c9d1d9;">Your data is yours alone. We use state-of-the-art encryption to ensure it stays that way, both in transit and at rest.</p>
-          </td>
-        </tr>
-      </table>
+    <td width="23.5%">
+      <div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
+        <h4 style="font-size: 2em; margin: 0 0 10px;">🔑</h4>
+        <h4 style="color: #6a64e3; margin: 0 0 10px; font-size: 1.2em;">Total Encryption</h4>
+        <p style="color: #c9d1d9; margin: 0; font-size: 0.9em; line-height: 1.5;">Your data is yours alone. We use state-of-the-art encryption to ensure it stays that way, both in transit and at rest.</p>
+      </div>
     </td>
   </tr>
 </table>
 
----
+<br/>
+<br/>
 
 <div align="center">
   <h2>🛠️ Our Tech Stack</h2>
@@ -153,7 +131,8 @@
   </p>
 </div>
 
----
+<br/>
+<br/>
 
 <div align="center">
   <h2>📫 Let's Build the Future Together</h2>
