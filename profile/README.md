@@ -1,143 +1,50 @@
-<div align="center">
-  <img src="banner.png" alt="Algorithmic Network Banner"/>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&color=6a64e3&center=true&vCenter=true&width=800&lines=Building+Trust+in+the+Digital+World;Secure.+Private.+Transparent.+Encrypted." alt="Typing SVG" />
-</div>
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+  <img src="banner-light.png" alt="Algorithmic Network. Engineering intelligence. Preserving privacy." width="100%">
+</picture>
 
-<!-- Socials -->
 <p align="center">
-  <a target="_blank" rel="noopener" href="https://algorithmic.network"><img src="https://img.shields.io/badge/Website-6a64e3?style=for-the-badge&logo=website&logoColor=white" alt="Website"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/algorithmicHQ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:contact@algorithmic.network"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://algorithmic.network">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://x.com/AlgorithmicHQ">X</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://huggingface.co/algorithmicnetwork">Hugging Face</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:hello@algorithmic.network">hello@algorithmic.network</a>
 </p>
 
-<br/>
-<br/>
+### Most AI begins by asking for your data. We begin by asking where it should stay.
 
-## 💡 About Us
-<p>
-  At <strong>Algorithmic Network</strong>, we are a collective of passionate engineers, designers, and strategists dedicated to building a safer, more transparent digital future. We don't just write code; we architect trust. From cutting-edge enterprise applications to robust security consulting, we deliver solutions that empower our clients and protect their users.
+Algorithmic Network designs and builds private AI: custom solutions, models and products that run on your devices, inside your own network or in a private cloud. When a hosted model is the better fit for quality, scale or cost, we connect it carefully and share only what you approve. **Local first. Cloud when it helps.**
+
+## What we do
+
+| AI consulting | AI development |
+| :-- | :-- |
+| Clarity before you commit. We assess the use case, your data and the deployment options, then plan the next step with clear evaluation criteria and operating costs. | Private AI applications, custom models, fine tuning and complete AI products, from dataset preparation and evaluation to deployment and handover. |
+
+## Where your AI runs
+
+| On device | On premises | Private cloud | Hosted AI |
+| :-- | :-- | :-- | :-- |
+| Assistants and tools that work offline on laptops, phones and point of sale machines. | Shared AI on hardware you own, inside your network and under your access rules. | Workloads that scale, in a cloud account and region you choose, protected by your keys. | The largest models when a task needs them, with source records kept under your control. |
+
+## Our products
+
+| Product | What it does | Stage |
+| :-- | :-- | :-- |
+| [**Retailist**](https://retailist.net) | A family of products for commerce. Run the shop floor, sell online, protect your data and create with AI, all from one connected suite. | Product family |
+| [**Cognically**](https://algorithmic.network/cognically) | Private AI for therapy conversations. Transcription, speaker detection, mood analysis and session summaries that stay on your device. | Proof of concept |
+| [**Local ATS**](https://localats.com) | Private AI resume analysis in your browser, powered by our custom models. Free and open source. | Beta |
+| [**Fynlink**](https://fyn.link) | Short, secure links with end to end encryption and analytics that respect your visitors. No ads and no trackers. | Live |
+
+## How we work
+
+- **Private by default.** Clear data boundaries and limited collection, agreed before anything is built.
+- **Measured on your real tasks.** A focused prototype on your own data before any larger build.
+- **People stay in charge.** Clear permissions and human review for the actions that matter.
+- **Plain language.** We explain capabilities, data flows and limitations, so everyone knows what a system does and why.
+
+**Models and tooling:** Python, PyTorch, TensorFlow, Hugging Face, ONNX, Ollama, LangChain, LangGraph, FastAPI, MLflow, Weights & Biases, Docker<br>
+**Applications:** TypeScript, React, Next.js, Astro, Tauri, Swift, Kotlin, PostgreSQL, Cloudflare
+
+---
+
+<p align="center">
+  <strong>Have an AI idea or a product in mind?</strong><br>
+  A short call is usually enough to find the right first step. Write to <a href="mailto:hello@algorithmic.network">hello@algorithmic.network</a> or visit <a href="https://algorithmic.network">algorithmic.network</a>.
 </p>
-
-<br/>
-
-## 🚀 Our Services
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr valign="top">
-    <td width="32%">
-      <div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
-        <h3 style="font-size: 2em; margin: 0 0 10px;">📦</h3>
-        <h3 style="color: #6a64e3; margin: 0 0 10px; font-size: 1.2em;">Bespoke Products</h3>
-        <p style="color: #c9d1d9; margin: 0; font-size: 0.9em; line-height: 1.5;">We craft high-quality software products tailored for enterprise needs, focusing on scalability, security, and user-centric design.</p>
-      </div>
-    </td>
-    <td width="2%">&nbsp;</td>
-    <td width="32%">
-      <div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
-        <h3 style="font-size: 2em; margin: 0 0 10px;">💻</h3>
-        <h3 style="color: #6a64e3; margin: 0 0 10px; font-size: 1.2em;">Custom Development</h3>
-        <p style="color: #c9d1d9; margin: 0; font-size: 0.9em; line-height: 1.5;">Our team partners with you to build custom applications from the ground up, turning your unique vision into a secure and powerful reality.</p>
-      </div>
-    </td>
-    <td width="2%">&nbsp;</td>
-    <td width="32%">
-      <div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
-        <h3 style="font-size: 2em; margin: 0 0 10px;">🤝</h3>
-        <h3 style="color: #6a64e3; margin: 0 0 10px; font-size: 1.2em;">IT Consultation</h3>
-        <p style="color: #c9d1d9; margin: 0; font-size: 0.9em; line-height: 1.5;">Leverage our expertise to navigate complex tech landscapes. We provide strategic guidance on security, architecture, and digital transformation.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## ✨ Our Core Principles
-<p align="center">Our four pillars guide everything we build.</p>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr valign="top">
-    <td width="23.5%">
-      <div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
-        <h4 style="font-size: 2em; margin: 0 0 10px;">🔒</h4>
-        <h4 style="color: #6a64e3; margin: 0 0 10px; font-size: 1.2em;">Privacy First</h4>
-        <p style="color: #c9d1d9; margin: 0; font-size: 0.9em; line-height: 1.5;">We champion data privacy as a human right, embedding it into the core of our development lifecycle.</p>
-      </div>
-    </td>
-    <td width="2%">&nbsp;</td>
-    <td width="23.5%">
-      <div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
-        <h4 style="font-size: 2em; margin: 0 0 10px;">🛡️</h4>
-        <h4 style="color: #6a64e3; margin: 0 0 10px; font-size: 1.2em;">Ironclad Security</h4>
-        <p style="color: #c9d1d9; margin: 0; font-size: 0.9em; line-height: 1.5;">We build resilient, hardened systems designed to withstand and repel the sophisticated threats of the modern web.</p>
-      </div>
-    </td>
-    <td width="2%">&nbsp;</td>
-    <td width="23.5%">
-      <div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
-        <h4 style="font-size: 2em; margin: 0 0 10px;">🔍</h4>
-        <h4 style="color: #6a64e3; margin: 0 0 10px; font-size: 1.2em;">Radical Transparency</h4>
-        <p style="color: #c9d1d9; margin: 0; font-size: 0.9em; line-height: 1.5;">We believe in open communication. Our clients and users have a right to understand the logic that powers their tools.</p>
-      </div>
-    </td>
-    <td width="2%">&nbsp;</td>
-    <td width="23.5%">
-      <div align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 25px;">
-        <h4 style="font-size: 2em; margin: 0 0 10px;">🔑</h4>
-        <h4 style="color: #6a64e3; margin: 0 0 10px; font-size: 1.2em;">Total Encryption</h4>
-        <p style="color: #c9d1d9; margin: 0; font-size: 0.9em; line-height: 1.5;">Your data is yours alone. We use state-of-the-art encryption to ensure it stays that way, both in transit and at rest.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-<br/>
-
-<div align="center">
-  <h2>🛠️ Our Tech Stack</h2>
-  <p align="center">
-    We believe in using the right tool for the job. Our team is proficient in a wide range of modern technologies, including:
-    <br/><br/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js"/>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-    <br/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-    <br/>
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-    <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-    <img src="https://img.shields.io/badge/LangChain-6a64e3?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-    <br/>
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-    <img src="https://img.shields.io/badge/Tauri-24C8B1?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri"/>
-    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
-  </p>
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <h2>📫 Let's Build the Future Together</h2>
-  <p>Have an idea or a challenge? We'd love to hear from you.</p>
-  <a href="mailto:contact@algorithmic.network">
-    <img src="https://img.shields.io/badge/Get_In_Touch-6a64e3?style=for-the-badge&logo=Couchsurfing&logoColor=white" alt="Contact Us"/>
-  </a>
-</div>
