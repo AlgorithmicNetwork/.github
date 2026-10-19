@@ -26,10 +26,10 @@ Algorithmic Network designs and builds private AI: custom solutions, models and 
 ### Our products
 
 <p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="product-retailist-dark.png"><a href="https://retailist.net"><img src="product-retailist-light.png" alt="Retailist, a product family for commerce" width="49%"></a></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="product-cognically-dark.png"><a href="https://algorithmic.network/cognically"><img src="product-cognically-light.png" alt="Cognically, private AI for therapy conversations" width="49%"></a></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="product-localats-dark.png"><a href="https://localats.com"><img src="product-localats-light.png" alt="Local ATS, private AI resume analysis in your browser" width="49%"></a></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="product-fynlink-dark.png"><a href="https://fyn.link"><img src="product-fynlink-light.png" alt="Fynlink, a private link shortener" width="49%"></a></picture>
+  <a href="https://retailist.net"><img src="product-retailist.png" alt="Retailist, a product family for commerce" width="49%"></a>
+  <a href="https://algorithmic.network/cognically"><img src="product-cognically.png" alt="Cognically, private AI for therapy conversations" width="49%"></a>
+  <a href="https://localats.com"><img src="product-localats.png" alt="Local ATS, private AI resume analysis in your browser" width="49%"></a>
+  <a href="https://fyn.link"><img src="product-fynlink.png" alt="Fynlink, a private link shortener" width="49%"></a>
 </p>
 
 <p align="center">
